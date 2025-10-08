@@ -2,24 +2,24 @@
 
 I am in my final semester of the Master of Information and Data Science program at UC Berkeley, with a background in HCM consulting and hands-on experience in data conversion, modeling, and product-focused analytics. 
 - Experienced in delivering client-ready solutions and leading cross-functional projects, with a strong interest in building data-driven products that combine technical rigor with design and usability.
-- Enjoy working at the intersection of **data, design, and decision-making** — from user insight to product strategy.
+- Enjoy working at the intersection of data, design, and decision-making, from user insight to product strategy.
 
 ## Featured Projects
-### 🏠 Zillow Housing Affordability
+### <i class="fa-light fa-house"></i> Zillow Housing Affordability
 **Regression modeling & urban economics**  
 - Built multivariate linear regression models to study how **new construction impacts housing affordability** across U.S. metros (2020–2024).  
 - Aggregated Zillow metro-level data into cross-sectional datasets; included predictors for new construction, monthly payments, and market heat.  
 - Conducted exploratory and confirmatory analyses with robust standard errors and heteroskedasticity tests.  
 📊 *R, data.table, ggplot2, stargazer*
 
-### 🌍 Air Quality & EV Adoption in Europe
+### Air Quality & EV Adoption in Europe
 **Machine learning & environmental analytics**  
 - Predicted **PM2.5 pollution levels** using electric vehicle adoption, fuel data, and population metrics across Europe.  
 - Engineered features, normalized across country samples, and trained models with XGBoost and PCA.  
 - Evaluated feature importance and fairness between over- and under-represented regions.  
 🤖 *Python, pandas, scikit-learn, XGBoost, matplotlib*
 
-### 🧠 Doctor Gender Bias Experiment
+### Doctor Gender Bias Experiment
 **Causal inference & behavioral experimentation**  
 - Designed and analyzed a **randomized survey experiment testing gender bias** in doctor selection using a mock booking website.  
 - Randomly assigned doctor gender while holding qualifications constant; measured differences in participant choices.  
