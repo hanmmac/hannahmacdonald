@@ -37,7 +37,7 @@ Tools: *Neo4j, Cypher, network analysis*
 - Evaluated feature importance and fairness between over- and under-represented regions.  
 Tools: *Python, pandas, scikit-learn, XGBoost, matplotlib*
 
-→ [View report](project_files/Vehicle&Registration&and&PM2.5&in&EU.pdf)
+→ [View report](project_files/Vehicle%20Registration%20and%20PM2.5%20in%20EU.pdf)
 
 ### Doctor Gender Bias Experiment
 **Causal inference & behavioral experimentation**  
