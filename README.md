@@ -36,7 +36,8 @@ Tools: *Neo4j, Cypher, network analysis*
 - Engineered features, normalized across country samples, and trained models with XGBoost and PCA.  
 - Evaluated feature importance and fairness between over- and under-represented regions.  
 Tools: *Python, pandas, scikit-learn, XGBoost, matplotlib*
-→ [View presentation](Zillow_Metrics_Project.pdf)
+
+→ [View report](project_files/Vehicle&Registration&and&PM2.5&in&EU.pdf)
 
 ### Doctor Gender Bias Experiment
 **Causal inference & behavioral experimentation**  
