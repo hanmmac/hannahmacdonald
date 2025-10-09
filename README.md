@@ -17,7 +17,8 @@ Currently, I am:
 - Aggregated Zillow metro-level data into cross-sectional datasets; included predictors for new construction, monthly payments, and market heat.  
 - Conducted exploratory and confirmatory analyses with robust standard errors and heteroskedasticity tests.  
 Tools: *R, data.table, ggplot2, stargazer*
-→ [View presentation](Zillow_Metrics_Project.pdf)
+
+→ [View presentation](project_files/Zillow_Metrics_Project.pdf)
 
 ### Diversifying Portfolio with Graph Databases 
 **Knowledge graph algorithms & data relationships**
