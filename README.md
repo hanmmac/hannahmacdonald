@@ -28,7 +28,7 @@ Tools: *Neo4j, Cypher, network analysis*
 - Designed schema to visualize flows between investors, companies, and funding events. 
 - Used Cypher queries to explore connected components and centrality.  
 
-→ [View githubrepository](https://github.com/hanmmac/graph-stock-analysis-project.git)
+→ [View github repository](https://github.com/hanmmac/graph-stock-analysis-project.git)
 
 ### Air Quality & EV Adoption in Europe
 **Machine learning & environmental analytics**  
@@ -44,16 +44,10 @@ Tools: *Python, pandas, scikit-learn, XGBoost, matplotlib*
 - Designed and analyzed a **randomized survey experiment testing gender bias** in doctor selection using a mock booking website.  
 - Randomly assigned doctor gender while holding qualifications constant; measured differences in participant choices.  
 - Estimated treatment effects using regression and randomization inference.  
- Tools: *Python, R, causal inference methods, survey design*
-→ [View presentation](Zillow_Metrics_Project.pdf)
+ Tools: *Python, R, causal inference methods, web development, ux survey design and testing, survey design*
 
-### Global Tourism Insights Dashboard
-**Data visualization & web design**  
-- Created an **interactive tourism insights web app** visualizing visitor trends, destinations, and economic indicators.  
-- Designed user flows and dashboards with usability testing and iterative feedback.  
-- Built in Flask and Altair, deployed with Vercel for lightweight access.  
- Tools: *Python (Flask), Altair, HTML/CSS, usability testing*
-→ [View presentation](Zillow_Metrics_Project.pdf)
+→ [View github repository](https://github.com/hanmmac/doctor-gender-bias-study.git)
+
 ---
 ## Would love to hear from you!
 - 🌐 [LinkedIn](https://www.linkedin.com/in/hannah-marie-macdonald/)
