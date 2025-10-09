@@ -1,8 +1,14 @@
-# Hi, I'm Hannah MacDonald 
+# About Me
+ **Hi, I'm Hannah MacDonald** 👋
 
-I am in my final semester of the Master of Information and Data Science program at UC Berkeley, with a background in HCM consulting and hands-on experience in data conversion, modeling, and product-focused analytics. 
-- Experienced in delivering client-ready solutions and leading cross-functional projects, with a strong interest in building data-driven products that combine technical rigor with design and usability.
-- Enjoy working at the intersection of data, design, and decision-making, from user insight to product strategy.
+Currently, I am:
+- A grad student at UC Berkeley studying Data Science (graduating 12/2025)
+- Enjoying turning data into useful, usable, and well-designed products
+- Past life: Data & HCM senior consultant helping clients make sense of their systems and metrics
+- Interested in AI, product analytics, and the human side of data
+- A big believer that small details make big differences
+
+---
 
 ## Featured Projects
 ### Zillow Housing Affordability
@@ -12,6 +18,16 @@ I am in my final semester of the Master of Information and Data Science program 
 - Conducted exploratory and confirmatory analyses with robust standard errors and heteroskedasticity tests.  
 Tools: *R, data.table, ggplot2, stargazer*
 → [View presentation](Zillow_Metrics_Project.pdf)
+
+### Diversifying Portfolio with Graph Databases 
+**Knowledge graph algorithms & data relationships**
+
+Tools: *Neo4j, Cypher, network analysis*
+- Built a **Neo4j graph database** mapping relationships between financial entities, sectors, and market signals.  
+- Designed schema to visualize flows between investors, companies, and funding events. 
+- Used Cypher queries to explore connected components and centrality.  
+
+→ [View githubrepository](https://github.com/hanmmac/graph-stock-analysis-project.git)
 
 ### Air Quality & EV Adoption in Europe
 **Machine learning & environmental analytics**  
@@ -27,14 +43,6 @@ Tools: *Python, pandas, scikit-learn, XGBoost, matplotlib*
 - Randomly assigned doctor gender while holding qualifications constant; measured differences in participant choices.  
 - Estimated treatment effects using regression and randomization inference.  
  Tools: *Python, R, causal inference methods, survey design*
-→ [View presentation](Zillow_Metrics_Project.pdf)
-
-### Finance Network Graph (Neo4j)
-**Knowledge graph & data relationships**  
-- Built a **Neo4j graph database** mapping relationships between financial entities, sectors, and market signals.  
-- Designed schema to visualize flows between investors, companies, and funding events. 
-- Used Cypher queries to explore connected components and centrality.  
- Tools: *Neo4j, Cypher, SQL, network analysis*
 → [View presentation](Zillow_Metrics_Project.pdf)
 
 ### Global Tourism Insights Dashboard
