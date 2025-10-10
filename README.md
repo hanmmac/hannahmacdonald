@@ -44,7 +44,7 @@ Tools: *Python, pandas, scikit-learn, XGBoost, matplotlib*
 - Designed and analyzed a **randomized survey experiment testing gender bias** in doctor selection using a mock booking website.  
 - Randomly assigned doctor gender while holding qualifications constant; measured differences in participant choices.  
 - Estimated treatment effects using regression and randomization inference.  
- Tools: *Python, R, causal inference methods, web development, ux survey design and testing, survey design*
+ Tools: *R, causal inference experiment, web dev (React), usability design and testing*
 
 → [View github repository](https://github.com/hanmmac/doctor-gender-bias-study.git)
 
