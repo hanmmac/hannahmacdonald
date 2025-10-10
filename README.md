@@ -30,7 +30,7 @@ Tools: *Neo4j, Python, Cypher, network analysis*
 
 → [View github repository](https://github.com/hanmmac/graph-stock-analysis-project.git)
 
-### Air Quality & EV Adoption in Europe
+### Air Quality & Vehicle Registration in Europe
 **Machine learning & environmental analytics**  
 - Predicted **PM2.5 pollution levels** using electric vehicle adoption, fuel data, and population metrics across Europe.  
 - Engineered features, normalized across country samples, and trained models with XGBoost and PCA.  
