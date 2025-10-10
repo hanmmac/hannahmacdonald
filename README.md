@@ -23,7 +23,7 @@ Tools: *R, data.table, ggplot2, stargazer*
 ### Diversifying Portfolio with Graph Databases 
 **Knowledge graph algorithms & data relationships**
 
-Tools: *Neo4j, Cypher, network analysis*
+Tools: *Neo4j, Python, Cypher, network analysis*
 - Built a **Neo4j graph database** mapping relationships between financial entities, sectors, and market signals.  
 - Designed schema to visualize flows between investors, companies, and funding events. 
 - Used Cypher queries to explore connected components and centrality.  
